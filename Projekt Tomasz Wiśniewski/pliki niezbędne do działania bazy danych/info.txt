@@ -1,1 +1,0 @@
-czasami pojawia sie dziwny bląd podczas dodawania tego pliku do struktury i nawet pomimo dodania go ona i tak sie nie wczytuje nalezy wtedy spróbować ponownie go dodać
